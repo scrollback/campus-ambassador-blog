@@ -1,0 +1,54 @@
+# Build settings
+markdown: kramdown
+highlighter: pygments
+
+# Site settings
+title: "Scrollback Campus Ambassador - blog"
+description:
+
+email: support@scrollback.io
+#blog logo
+logo: "/assets/images/scrollback-logo-square.svg"
+# blog cover
+cover: "/assets/images/cover.jpg"
+
+name: "Scrollback"
+author: "Scrollback"
+author_image:
+
+paginate: 5
+
+url: "/" # the base hostname & protocol for your site
+baseurl: ""
+
+excerpt_separator: "<!-- more -->"
+
+# social icons and sharing options
+social:
+  - icon: twitter
+    url: https://twitter.com/scrollbackio
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon: facebook
+    url: https://facebook.com/scrollback
+    desc: Connect with me facebook
+    share_url: //www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/scrollback
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
