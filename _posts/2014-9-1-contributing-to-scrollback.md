@@ -20,6 +20,7 @@ For any graphics work that you want to submit, please create a google drive or d
 If your blogs are appreciated by our team, we can post them on the official Scrollback blog. Even if you have something very specific to say for which you would like to use the official Scrollback blog, you can be given the access (depending on the requirement).
 
 Share all your blog posts here:
+
 <iframe src="https://docs.google.com/forms/d/1WH8xK4Z5tcLL3JT8rr7UdA3dacMBNjXLhvTLhsbZMH8/viewform?embedded=true" width="760" height="510" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 * **PR and marketing:** Actively promote Scrollback on all social media platform. Making regular posts on Facebook, twitter etc. This is a very crucial role. You need to understand the product well before making any public comment about it on any social media. You will be assigned some mentor from the Scrollback team to check your content before you post them (if you are unsure about them).
